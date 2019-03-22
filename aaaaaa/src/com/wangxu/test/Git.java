@@ -9,5 +9,9 @@ public class Git {
         System.out.println("hell");
         System.out.println("hell");
     }
+    public void test(){
+        int i = 0;
+        i += 10;
+    }
 
 }
